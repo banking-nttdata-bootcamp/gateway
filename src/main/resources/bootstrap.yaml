@@ -1,6 +1,6 @@
 spring:
   application:
-    name: bootcamp-gateway
+    name: gateway
   config:
     import: "optional:configserver:http://localhost:7000"
   cloud:

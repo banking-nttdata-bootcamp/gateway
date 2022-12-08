@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.nttdata.bootcamp</groupId>
-	<artifactId>bootcamp-gateway</artifactId>
+	<artifactId>gateway</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>bootcamp-gateway</name>
+	<name>gateway</name>
 	<description>Microservice Gateway</description>
 	<properties>
 		<java.version>11</java.version>
